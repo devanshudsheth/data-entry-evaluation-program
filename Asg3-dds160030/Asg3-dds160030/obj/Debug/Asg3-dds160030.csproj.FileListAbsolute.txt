@@ -1,0 +1,9 @@
+c:\users\devan\documents\visual studio 2015\Projects\Asg3-dds160030\Asg3-dds160030\bin\Debug\Asg3-dds160030.exe.config
+c:\users\devan\documents\visual studio 2015\Projects\Asg3-dds160030\Asg3-dds160030\bin\Debug\Asg3-dds160030.exe
+c:\users\devan\documents\visual studio 2015\Projects\Asg3-dds160030\Asg3-dds160030\bin\Debug\Asg3-dds160030.pdb
+c:\users\devan\documents\visual studio 2015\Projects\Asg3-dds160030\Asg3-dds160030\obj\Debug\Asg3_dds160030.Properties.Resources.resources
+c:\users\devan\documents\visual studio 2015\Projects\Asg3-dds160030\Asg3-dds160030\obj\Debug\Asg3-dds160030.csproj.GenerateResource.Cache
+c:\users\devan\documents\visual studio 2015\Projects\Asg3-dds160030\Asg3-dds160030\obj\Debug\Asg3-dds160030.exe
+c:\users\devan\documents\visual studio 2015\Projects\Asg3-dds160030\Asg3-dds160030\obj\Debug\Asg3-dds160030.pdb
+C:\Users\devan\documents\visual studio 2015\Projects\Asg3-dds160030\Asg3-dds160030\obj\Debug\Asg3-dds160030.csprojResolveAssemblyReference.cache
+C:\Users\devan\documents\visual studio 2015\Projects\Asg3-dds160030\Asg3-dds160030\obj\Debug\Asg3_dds160030.EvaluationForm.resources

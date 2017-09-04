@@ -1,0 +1,9 @@
+Number of Items: 10
+Minimum Entry Time: 00:20
+Maximum Entry Time: 00:40
+Average Entry Time: 00:23
+Minimum inter-record Time: 00:04
+Maximum inter-record Time: 00:07
+Average inter-record Time: 00:04
+Total Time: 04:35
+Backspace Count: 12
